@@ -46,3 +46,6 @@ dockers_product.json
 *.db
 *.sqlite
 *.sqlite3
+
+#other
+tempCodeRunnerFile.py
