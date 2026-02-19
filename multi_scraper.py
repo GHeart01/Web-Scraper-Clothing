@@ -216,9 +216,7 @@ if __name__ == "__main__":
     # List of Dockers product URLs to scrape
     PRODUCT_URLS = [
         "https://us.dockers.com/products/signature-iron-free-khakis-classic-fit-with-stain-defender-a31590022",
-        # Add more URLs here:
-        # "https://us.dockers.com/products/...",
-        # "https://us.dockers.com/products/...",
+        "https://us.dockers.com/collections/mens-pants/products/go-airweave-5-pocket-straight-fit-003h80005"
     ]
     
     logger.info("Starting multi-product scraper...")
