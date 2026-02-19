@@ -1,6 +1,7 @@
 """
 Dockers Signature Iron Free Khakis Scraper
 Extracts product data from a specific Dockers product page
+ONLY FROM DOCKERS.COM
 """
 
 import requests
